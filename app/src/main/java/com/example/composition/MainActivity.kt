@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         val a = 3
+        val b = 5
+        val c = 5
     }
 }
